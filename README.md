@@ -57,9 +57,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Tamulus47/Tamulus47/output/snake.svg" alt="Snake animation" />
-
-###
