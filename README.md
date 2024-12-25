@@ -49,7 +49,7 @@
   <a href="https://telegram.com/Tamulus47" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Tamulus47&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-  <a href="https://discord.com/Tamulus#9708" target="_blank">
+  <a href="https://discord.com/tamulus47" target="_blank">
     <img src="https://img.shields.io/static/v1?message=9708&logo=discord&label=Tamulus&color=7289DA&logoColor=blue&labelColor=gray&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
